@@ -1,20 +1,20 @@
-# educational_hub
+# educational-hub
 
 ## Project Description
 
 Resources and tools to connect educators and students interested in exploring capstone/community service projects with D4D.
 
-This project is just rolling out, please check out the [timeline](https://github.com/Data4Democracy/educational_hub#timeline) below for ways you get involved. We need as much educator and student input as possible to ensure we serve our target audience as best as possible.
+This project is just rolling out, please check out the [timeline](https://github.com/Data4Democracy/educational-hub#timeline) below for ways you get involved. We need as much educator and student input as possible to ensure we serve our target audience as best as possible.
 
 **Slack:** [#teaching](https://datafordemocracy.slack.com/messages/teaching/)
 
 ### Students
 
-Students interested in exploring the problems being solved, the tech being used, and the techniques being employed here in the D4D community should visit the [student_project_hub](https://github.com/Data4Democracy/educational_hub/tree/master/student_project_hub) for more information
+Students interested in exploring the problems being solved, the tech being used, and the techniques being employed here in the D4D community should visit the [student_project_hub](https://github.com/Data4Democracy/educational-hub/tree/master/student_project_hub) for more information
 
 ### Educators
 
-Educators interested in exploring connecting their students with the D4D community should visit [teaching_resources](https://github.com/Data4Democracy/educational_hub/tree/master/teaching_resources) for more information.
+Educators interested in exploring connecting their students with the D4D community should visit [teaching_resources](https://github.com/Data4Democracy/educational-hub/tree/master/teaching_resources) for more information.
 
 ## Project Leads
 
