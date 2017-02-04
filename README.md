@@ -44,4 +44,7 @@ TBD
 3. Develop tools or process to keep repo up to date.
 
 ## Skills
-* Skills you may learn or already posses relevant to this project.
+* Coding in Python, R, SQL
+* Web scraping and integration, REST APIs
+* Natural language processing, data mining, classification, social network mapping...
+* Other skills you may learn or already posses relevant to this project.
