@@ -2,10 +2,10 @@
 #      Main Configs       #
 # ----------------------- #
 
-url: http://cognition.shaffermusic.com
-title: Music Cognition
-email: kris.shaffer@colorado.edu
-description: "PSYC 4541, CU–Boulder"
+url: https://data4democracy.github.io/educational-hub
+title: Data4Democracy Education Resources
+email:
+description: "Resources for educators, students, and individuals"
 
 # ----------------------- #
 #    Jekyll & Plugins     #
@@ -21,6 +21,6 @@ permalink: pretty
 
 social:
   - title: twitter
-    url: https://twitter.com/krisshaffer
+    url: https://twitter.com/data4democracy
   - title: github
-    url: https://github.com/kshaffer/cognition
+    url: https://github.com/Data4Democracy/educational-hub/

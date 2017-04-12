@@ -1,10 +1,4 @@
 <!-- Page Content -->
-<div class="content-section-lead"><iframe src="https://player.vimeo.com/video/167485155" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe><p><a href="https://vimeo.com/167485155">Music Cognition 2016 Course Introduction</a> from <a href="https://vimeo.com/user11692346">Kris Shaffer</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
-
-	<p>Also see the <a href="https://vimeo.com/167485374">video tour of D2L and this course website</a>.</p>
-
-</div>
-
 {% for post in site.posts reversed %}
   {% capture thecycle %}{% cycle 'odd', 'even' %}{% endcapture %}
     {% if thecycle == 'odd' %}
@@ -20,7 +14,7 @@
                     {{ post.description }}
                 </div>
                 <div class="col-lg-5 col-lg-offset-2 col-sm-6">
-                    <img class="img-responsive" src="img/services/{{ post.image }}" alt="">
+                    <img class="img-responsive" src="{{ site.url }}/img/services/{{ post.image }}" alt="">
                 </div>
             </div>
 
@@ -43,7 +37,7 @@
                     {{ post.description }}
                 </div>
                 <div class="col-lg-5 col-sm-pull-6  col-sm-6">
-                  <img class="img-responsive" src="img/services/{{ post.image }}" alt="">
+                  <img class="img-responsive" src="{{ site.url }}/img/services/{{ post.image }}" alt="">
                 </div>
             </div>
 
