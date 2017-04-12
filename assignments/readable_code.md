@@ -2,7 +2,7 @@
 layout: page
 title: "Icebreaker Software Engineering Exercise(s) - Readable Code"
 subTitle: "Author: Anna Koop"
-image: memory.jpg
+image: lightspots.jpg
 ---
 
 ## Overview

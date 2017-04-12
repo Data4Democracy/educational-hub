@@ -2,7 +2,7 @@
 layout: page
 title: "Assignment/Module Title"
 subTitle: "Author: [name]"
-image: memory.jpg
+image: lightspots.jpg
 ---
 
 ## Overview

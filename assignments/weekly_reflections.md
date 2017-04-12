@@ -2,7 +2,7 @@
 layout: page
 title: "Weekly Reflections"
 subTitle: "Author: Anna Koop"
-image: memory.jpg
+image: lightspots.jpg
 ---
 
 ## Overview
