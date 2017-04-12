@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Assignments & Modules"
-subTitle: "Individual assignments and small modules for courses and/or self-study"
+subTitle: "Individual assignments and small modules<br/>for courses and/or self-study"
 image: trains.jpg
 ---
 
