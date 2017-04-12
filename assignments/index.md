@@ -14,3 +14,7 @@ If you would like to contribute an assignment/module, please visit the <a href="
 ## Assignments and course modules
 
 <!-- List existing assignments and modules here. As the list grows, start to organize by category in whatever way makes the most sense. -->
+
+<a href="{{ site.url }}/assignments/weekly_reflections" target="blank_">Weekly Reflections</a>, Anna Koop.
+
+<a href="{{ site.url }}/assignments/readable_code" target="blank_">Icebreaker Software Engineering Exercise(s) - Readable Code</a>, Anna Koop.

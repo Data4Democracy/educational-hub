@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Assignment/Module Title"
-subTitle: "Assignment/Module subtitle"
+subTitle: "Author: [name]"
 image: memory.jpg
 ---
 
