@@ -1,0 +1,8 @@
+---
+layout: default
+image: schemasSmall.jpg
+category: Services
+title: Week 3 – June 15–19
+description: |
+  <p class="lead"><b>Schemas, categories, styles</b><br/><br/>What makes a musical expert? Are only trained musicians experts? Or do we all have a robust, nuanced understanding of musical style and practice?<br/><br/><a href="/week3/">Read more...</a></p>
+---

@@ -1,0 +1,8 @@
+---
+layout: default
+image: stringSmall.jpg
+category: Services
+title: Week 2 – June 8–12
+description: |
+  <p class="lead"><b>Music on the small scale – chords, phrases, rhythm</b><br/><br/>Is music really a "universal language"? This is a common claim from both musicians and music lovers — but is it true?<br/><br/><a href="/week2/">Read more...</a></p>
+---

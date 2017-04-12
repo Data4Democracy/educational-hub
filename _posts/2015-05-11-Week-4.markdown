@@ -1,0 +1,8 @@
+---
+layout: default
+image: spiralSmall.jpg
+category: Services
+title: Week 4 – June 22–26
+description: |
+  <p class="lead"><b>Form, expectation, emotion</b><br/><br/>What is a piece of music that really grips you? What is it about that piece, that moment that floors you every time you hear it? And why is it that we can keep coming back to the same songs, albums, artists without getting bored? What is this seemingly indefatigable power that some music seems to have over us?<br/><br/><a href="/week4/">Read more...</a></p>
+---

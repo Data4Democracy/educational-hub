@@ -1,0 +1,8 @@
+---
+layout: default
+image: memorySmall.jpg
+category: Services
+title: Week 1 – June 1–5
+description: |
+  <p class="lead"><b>Introduction to auditory memory.</b><br/><br/>What is a musical note? a chord? rhythm? Do musicians define these differently than cognitive scientists? What exactly do we <i>hear</i> when we listen to music?<br/>We will engage these and other related questions during this unit, as we begin to explore the workings of the human auditory system and basic musical concepts.<br/><br/><a href="/week1/">Read more...</a></p>
+---

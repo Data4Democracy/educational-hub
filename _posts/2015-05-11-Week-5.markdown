@@ -1,0 +1,8 @@
+---
+layout: default
+image: waterSmall.jpg
+category: Services
+title: Week 5 – June 29–July 3
+description: |
+  <p class="lead"><b>Reassessments and final projects</b><br/><br/><a href="/week5/">Read more...</a></p>
+---
