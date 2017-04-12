@@ -2,7 +2,7 @@
 layout: page
 title: "Data for Democracy<br/>Education Resources"
 subTitle: "Resources for educators, students, and individuals"
-image: synapse.jpg
+image: childfield.jpg
 ---
 
 <a href="http://datafordemocracy.org/" target="blank_">Data for Democracy</a> exists to be an inclusive community for data scientists and technologists to volunteer and collaborate on projects that make a positive impact on society.
