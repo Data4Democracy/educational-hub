@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Syllabus
-subTitle: "Music Cognition (PSYC 4541), CU–Boulder, Summer 2016<br/>Kris Shaffer, Ph.D. – instructor"
+title: Syllabi
+subTitle: "Example syllabi for courses that engage public data for social good"
 image: path.jpg
 ---
 
