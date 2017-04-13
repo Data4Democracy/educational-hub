@@ -31,23 +31,26 @@ This module is designed to help students meet the following learning objectives:
 
 <!-- Assignment prompt for students with clear details about what to do to accomplish the learning objectives. This could include a detailed assignment prompt, or a list of possible tasks that students/instructors could choose to engage. Where possible provide links to public examples. Where appropriate, reference specific learning objectives. -->
 
-#### Exploratory Data Analysis
+### Exploratory Data Analysis
 
 - Perform exploratory data analysis on the datasets given in data.world
 - Clean the data to merge companies if they are listed in different rows but are essentially the same.
 - Try inferring insights regarding the countries and type of relationships that has been most preferred.
 - Create simple visualizations to ease the reading of the analysis.
 
-## Datasets
-- [Raw data from BuzzFeed](https://www.buzzfeed.com/johntemplon/help-us-map-trumpworld?utm_term=.mmQ6Jd6dK#.qi2yovyvR)
-- [Cleaned data in data.world](https://data.world/sya/trumpworld)
-
-## Other Resources
-- [Sample EDA notebook by stur86](https://github.com/Data4Democracy/micro-projects/tree/master/trumpworld)
-- [D4D's Slack #micro-projects channel](https://datafordemocracy.slack.com/)
-- [Kaggle Kernels](https://www.kaggle.com/buzzfeed/trumpworld)
-
 ### Random Thoughts
 
 * Try and find out more connections from other data sources found online - help BuzzFeed improve the dataset.
 * Ask for feedback from the D4D community and push your analysis to the D4D Github micro-projects repository.
+
+## Datasets
+
+- [Raw data from BuzzFeed](https://www.buzzfeed.com/johntemplon/help-us-map-trumpworld?utm_term=.mmQ6Jd6dK#.qi2yovyvR)
+- [Cleaned data in data.world](https://data.world/sya/trumpworld)
+
+## Other Resources
+
+- [Sample EDA notebook by stur86](https://github.com/Data4Democracy/micro-projects/tree/master/trumpworld)
+- [D4D's Slack #micro-projects channel](https://datafordemocracy.slack.com/)
+- [Kaggle Kernels](https://www.kaggle.com/buzzfeed/trumpworld)
+
