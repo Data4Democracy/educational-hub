@@ -31,7 +31,7 @@ This module is designed to help students meet the following learning objectives:
 
 <!-- Assignment prompt for students with clear details about what to do to accomplish the learning objectives. This could include a detailed assignment prompt, or a list of possible tasks that students/instructors could choose to engage. Where possible provide links to public examples. Where appropriate, reference specific learning objectives. -->
 
-### Exploratory Data Analysis
+#### Exploratory Data Analysis
 
 - Perform exploratory data analysis on the datasets given in data.world
 - Clean the data to merge companies if they are listed in different rows but are essentially the same.
@@ -45,6 +45,7 @@ This module is designed to help students meet the following learning objectives:
 ## Other Resources
 - [Sample EDA notebook by stur86](https://github.com/Data4Democracy/micro-projects/tree/master/trumpworld)
 - [D4D's Slack #micro-projects channel](https://datafordemocracy.slack.com/)
+- [Kaggle Kernels](https://www.kaggle.com/buzzfeed/trumpworld)
 
 ### Random Thoughts
 
