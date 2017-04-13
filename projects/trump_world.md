@@ -44,7 +44,7 @@ This module is designed to help students meet the following learning objectives:
 
 ## Other Resources
 - [Sample EDA notebook by stur86](https://github.com/Data4Democracy/micro-projects/tree/master/trumpworld)
-- [D4D's Slack #micro-projects channel]
+- [D4D's Slack #micro-projects channel](https://datafordemocracy.slack.com/)
 
 ### Random Thoughts
 
