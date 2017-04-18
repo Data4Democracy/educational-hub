@@ -48,7 +48,11 @@ Each task is described in [this link](https://github.com/Data4Democracy/github-p
 * Go through common errors - why a merge might fail? How to debug code after a merge fails?
 * Read/teach about how GitHub actually works.
 
+### Resources
+
+* [Forking Workflow]( https://www.atlassian.com/git/tutorials/comparing-workflows)
+* [Learn Version Control with Git Tutorials](https://www.git-tower.com/learn/git/videos/)
+
 ## Issues?
 
 * Do not worry, we've all been there! Join the #github-help-channel in [D4D's slack](https://datafordemocracy.slack.com/) and ask for help.
-*
