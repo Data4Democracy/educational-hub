@@ -18,3 +18,7 @@ If you would like to contribute an assignment/module, please visit the <a href="
 <a href="{{ site.url }}/assignments/weekly_reflections" target="blank_">Weekly Reflections</a>, Anna Koop.
 
 <a href="{{ site.url }}/assignments/readable_code" target="blank_">Icebreaker Software Engineering Exercise(s) - Readable Code</a>, Anna Koop.
+
+## Tutorials
+
+<a href="{{ site.url }}/assignments/github-playground" target="blank_">Getting started with GitHub</a>, D4D Tutorials.
