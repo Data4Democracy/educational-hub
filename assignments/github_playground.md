@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Easy GitHub Tutorial"
-subTitle: "Author: Anna Koop"
+subTitle: "Author: D4D Tutorials"
 image: lightspots.jpg
 ---
 
