@@ -35,7 +35,7 @@ This module is designed to help students meet the following learning objectives:
 
 ### In-class
 
-Each task is described in [this link](https://github.com/Data4Democracy/github-playground). Follow each step in the tutorial explaining each term (fork, clone, branch, commit, push, pull-request, merge etc.)
+Each task is described in [this link](https://github.com/Data4Democracy/github-playground). Follow the steps in the tutorial explaining every term (fork, clone, branch, commit, push, pull-request, merge etc.) on the way.
 
 ### Extensions
 
