@@ -39,13 +39,13 @@ Each task is described in [this link](https://github.com/Data4Democracy/github-p
 
 ### Extensions
 
-* Assign group projects where students use GitHub.
+* Assign group projects where teams use GitHub to collaborate.
 * Create a local github-playground repo for the class with the list of tasks to manage the pull-requests on your own.
 
 
 ### Random thoughts
 
-* Go through common errors - why a merge might fail? How to debug code after a merge fails?
+* Go through common errors that one might encounter - why a merge might fail? How to debug code after a merge fails?
 * Read/teach about how GitHub actually works.
 
 ### Resources
@@ -55,4 +55,4 @@ Each task is described in [this link](https://github.com/Data4Democracy/github-p
 
 ## Issues?
 
-* Do not worry, we've all been there! Join the #github-help-channel in [D4D's slack](https://datafordemocracy.slack.com/) and ask for help.
+* Do not worry, we've all been there! Join the #github-help-channel in [D4D's slack](https://datafordemocracy.slack.com/) and ask for help if you get stuck.
